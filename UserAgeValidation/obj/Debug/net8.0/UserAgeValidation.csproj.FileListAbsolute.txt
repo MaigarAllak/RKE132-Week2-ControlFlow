@@ -1,0 +1,14 @@
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.exe
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.deps.json
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.runtimeconfig.json
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.dll
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.pdb
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.AssemblyInfoInputs.cache
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.AssemblyInfo.cs
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.dll
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\refint\UserAgeValidation.dll
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.pdb
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.genruntimeconfig.cache
+C:\Users\maiga\source\repos\Week2\UserAgeValidation\obj\Debug\net8.0\ref\UserAgeValidation.dll
